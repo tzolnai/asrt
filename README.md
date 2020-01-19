@@ -16,10 +16,19 @@ Running ASRT script requires all of the following and their dependencies.
 * [pyglet](https://pyglet.readthedocs.io/en/stable/)
 
 After Python 3.6 and pip is intalled, you can install psychopy, tobii_research and pyglet packages using `pip install`.
+pyWinhook is a dependency of PscychoPy python package, but it's newest version fails to install on Python 3.6,
+so use a version which have a Python 3.6 package (e.g. 1.6.1).
+```
+pip install pyWinhook==1.6.1
+```
+
 This ASRT script uses an older version of pyglet (<=1.3.2) so for pyglet you need to specify the version explicitely:
 ```
 pip install pyglet==1.3.2
 ```
+
+For the up-to-date install process, check the github workflow files which contain how to install all packages.
+https://github.com/tzolnai/asrt_core/tree/master/.github/workflows
 
 Additional dependencies (for development):
 * [pytest](https://docs.pytest.org/en/latest/): For running tests under test folder
