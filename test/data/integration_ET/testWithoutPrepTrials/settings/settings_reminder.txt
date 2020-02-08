@@ -2,12 +2,7 @@ Beállítások
 
 Monitor Width: 	34,2
 Computer Name: 	Laposka
-Experiment type:	reaction-time
-Response keys: 	y, c, b, m.
-Quit key: 	q
-Warning (speed, accuracy): 	True
-Speed warning at:	93
-Acc warning at:	91
+Experiment type:	eye-tracking
 Groups:	nincsenek csoportok
 Sessions:	1
 Epochs in sessions:	5
@@ -20,6 +15,10 @@ Asrt stim size:	1,0
 Asrt stim color (implicit):	Orange
 Asrt stim color (explicit, cued):	Green
 Background color:	Ivory
+AOI size:	4,0
+Fixation threshold for stimulus:	12
+Fixation threshold for instructions:	36
+Dispersion threshold:	2.0
 
 Az alábbi beállítások minden személyre érvényesek és irányadóak
 
