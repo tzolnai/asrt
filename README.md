@@ -48,7 +48,7 @@ When instruction file is in place you can run the script by `python asrt.py` com
 
 This code is forked from this github repository: https://github.com/hallgatoemese/asrt.
 
-The original codes' author is **Emese Szegedi-Hallgató** ([hallgatoemese](https://github.com/hallgatoemese))
+The original code's author is **Emese Szegedi-Hallgató** ([hallgatoemese](https://github.com/hallgatoemese))
 
 The code was rewritten and was extended with eye-tracker capabilities by **Tamás Zolnai** ([tzolnai](https://github.com/tzolnai))
 
