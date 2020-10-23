@@ -46,6 +46,8 @@ When instruction file is in place you can run the script by `python asrt.py` com
 
 ### Credits
 
+Maintainer: **Tamás Zolnai** ([tzolnai](https://github.com/tzolnai))
+
 This code is forked from this github repository: https://github.com/hallgatoemese/asrt.
 
 The original code's author is **Emese Szegedi-Hallgató** ([hallgatoemese](https://github.com/hallgatoemese))
