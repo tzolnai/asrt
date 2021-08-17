@@ -54,6 +54,12 @@ The original code's author is **Emese Szegedi-Hallgató** ([hallgatoemese](https
 
 The code was rewritten and was extended with eye-tracker capabilities by **Tamás Zolnai** ([tzolnai](https://github.com/tzolnai))
 
+### Citation
+
+ASRT Core Developers (2020). ASRT Core (Version 0.0.3)[Computer software].
+
+For the year, you should use the release date of the used version.
+
 ### References
 
 ASRT (alternating SRT, alternating serial reaction time task)
