@@ -1,15 +1,8 @@
 # ASRT core
 
-The core ASRT script written in Python 3. This code includes basic
-functionality useful for an ASRT experiment, but it does probably not
-include everything which is needed for a specific experiment. Specific needs
-can be implemented in separate repositories \ forks.
+The core ASRT script written in Python 3. This code includes basic functionality useful for an ASRT experiment, but it does probably not include everything which is needed for a specific experiment. Specific needs can be implemented in separate repositories \ forks.
 
-IMPORTANT NOTE: This python script is not meant to be used as standalone software. Installing
-the prerequisites and running this code needs an understanding of the python language, python packages
-and psychopy. This source code can be used to create your own ASRT-based experiment script.
-You can grab this python script, adapt it to your python / psychopy environment, change the
-text displayed on the user interface to the language you need and extend it with some additional features.
+IMPORTANT NOTE: This python script is not meant to be used as standalone software. Installing the prerequisites and running this code needs an understanding of the python language, python packages and psychopy. This source code can be used to create your own ASRT-based experiment script. You can grab this python script, adapt it to your python / psychopy environment, change the text displayed on the user interface to the language you need and extend it with some additional features.
 
 This script supports both keyboard and eye-tracking controlled design.
 
