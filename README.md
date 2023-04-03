@@ -67,6 +67,10 @@ ASRT (alternating SRT, alternating serial reaction time task)
 
 * [Simor, P., Zavecz, Z., Horvath, K., Éltető, N., Török, C., Pesthy, O., ... & Nemeth, D. (2019). Deconstructing procedural memory: Different learning trajectories and consolidation of sequence and statistical learning. Frontiers in psychology, 9, 2708.](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02708/full)
 
+Oculomotor version of ASRT
+
+* [Zolnai, T., Dávid, D., Pesthy, O., Nemeth, M., Kiss, M., Nagy, M., & Nemeth, D. (2022). Measuring statistical learning by eye-tracking. Experimental Results, 3, E10. doi:10.1017/exp.2022.8](https://www.cambridge.org/core/journals/experimental-results/article/measuring-statistical-learning-by-eyetracking/03CE0A705EAB7708AB087554A74A29F1)
+
 I-DT: Dispersion-Threshold identification of fixations
 
 * [Salvucci, D. D., & Goldberg, J. H. (2000, November). Identifying fixations and saccades in eye-tracking protocols.
