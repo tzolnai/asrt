@@ -59,6 +59,8 @@ ASRT Core Developers (2021). ASRT Core (Version 0.1.0)[Source code].
 
 For the year, you should use the release date of the used version.
 
+You should use a version that was marked explicitely as a release: https://github.com/tzolnai/asrt_core/tags.
+
 ### References
 
 ASRT (alternating SRT, alternating serial reaction time task)
